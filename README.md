@@ -8,7 +8,7 @@ Interactive revival of classic screensavers with modern web tech - starfields, m
 Nostalgic animations built with modern web tech - starfields, matrix rain, wave interference, and particle explosions that once adorned our childhood computers.
 
 ## 🌐 Live Preview
-**[✨ View Live Demo](https://your-username.github.io/screensaver-animations)**
+**[View Live Demo](https://your-username.github.io/screensaver-animations)**
 
 Experience the animations directly in your browser - no installation required!
 
