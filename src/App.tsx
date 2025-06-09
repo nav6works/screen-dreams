@@ -3,6 +3,7 @@ import Starfield from './components/Starfield';
 import MatrixRain from './components/MatrixRain';
 import WaveInterference from './components/WaveInterference';
 import ParticleExplosion from './components/ParticleExplosion';
+import DigitalClock from './components/DigitalClock';
 import SpeedDial from './components/SpeedDial';
 import './App.css';
 
@@ -11,6 +12,7 @@ const animations = [
   { name: 'Matrix Rain', component: MatrixRain },
   { name: 'Wave Interference', component: WaveInterference },
   { name: 'Particle Explosion', component: ParticleExplosion },
+  { name: 'Digital Clock', component: DigitalClock },
 ];
 
 function App() {
